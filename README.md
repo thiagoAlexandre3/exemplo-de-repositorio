@@ -1,4 +1,4 @@
 # primeiro-comado
- Olá, mundo
+ Olá, mundo!
 
  Primeiro repositório criado em uma aula do Curso em Video sobre Git e GitHub.
