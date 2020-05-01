@@ -7,4 +7,4 @@
  * Primeiro repositório criado em uma aula do Curso em Video sobre Git e GitHub.
 
  * Este não contém nenhuma projeto.
-    * Porem em breve já teremos projetos, aí em em @thiagoAlexandre3 :+1:
+    * Porem já temos projetos aí em @thiagoAlexandre3 :+1:
